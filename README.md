@@ -4,8 +4,8 @@
 
 ### About Me
 * I am a Stanford engineer passionate about software development
-* I am located at San Francisco Bay Area, CA
-* I have a golden retriever who 
+* I am located in San Francisco Bay Area, CA
+* I have a golden retriever who is always a happy dog
 
 ### Technologies
 #### Languages
@@ -37,10 +37,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F86F5F?style=for-the-badge&logo=figma&logoColor=white)
 
+<!--
+---
 
 [![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennyMipha&hide=issues,stars&count_private=true&show_icons=true&theme=nord)](https://github.com/JennyMipha/github-readme-stats)
-
-
+-->
 <!--
 
 Here are some ideas to get you started:
