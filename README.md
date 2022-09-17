@@ -1,10 +1,11 @@
 ## Hello, I am Jennifer 👋
 
-### About Me
-
 [![LinkedIn: LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fylin/)
-* I have a engineering Master
+
+### About Me
+* I am a Stanford engineer passionate about software development
 * I am located at San Francisco Bay Area, CA
+* I have a golden retriever who 
 
 ### Technologies
 #### Languages
@@ -12,7 +13,6 @@
 ![typescipt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![java](https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-1e2933?style=for-the-badge&logo=python&logoColor=white)
-
 
 #### Front-End
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
